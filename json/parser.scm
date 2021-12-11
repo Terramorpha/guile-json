@@ -30,7 +30,8 @@
   #:export (json->scm
             json-string->scm
             json-seq->scm
-            json-seq-string->scm))
+            json-seq-string->scm
+            json-read))
 
 ;;
 ;; Miscellaneuos helpers
